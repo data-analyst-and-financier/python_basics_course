@@ -4,4 +4,4 @@
 
 Для корректной работы оглавления рекомендуется загрузить [тетрадку](https://nbviewer.org/github/data-analyst-and-financier/python_basics_course/blob/main/My%20solutions.ipynb) на сервисе `nbviewer`. 
 
-Сертификат об успешном прохождении курса находится во вложении, а также доступен по [ссылке](https://drive.google.com/drive/u/1/folders/1JFEG2d2yvFfwKndgU2xVG3CV1jIGw_Bn).
+Сертификат об успешном прохождении курса находится во вложении, а также доступен по [ссылке](https://drive.google.com/file/d/1ezR9EdzpIbxIIx4LQMkpHjYjBmaJR-1C/view?usp=sharing).
